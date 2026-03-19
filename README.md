@@ -1,38 +1,148 @@
-![banner](https://github.com/gabriel04rocha/gabriel04rocha/blob/main/github-banner.png?raw=true)
+![banner](https://github.com/gabriel04rocha/gabriel04rocha/blob/main/banner-github.jpg?raw=true)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=U+Know+Who+I'+Am...+👾;)](https://git.io/typing-svg)
+# 👩🏻‍💻 Gabriel Rocha
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonvgon&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Fhx github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonvgon&layout=compact&hide_border=true&title_color=9400D3&text_color=9400D3&bg_color=0d1117" />
-</div>
+**`Desenvolvedor Backend`**
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jonvgon&bg_color=0d1117&color=9400D3&line=9400D3&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Olá! Me chamo Gabriel Rocha. Atualmente tenho 22 anos e sou natural de Brasília, DF. Sou formado em Análise e Desenvolvimento de sistemas e meu interesse pela tecnologia vem de muito tempo atrás. Tive contato com computadores e algumas tecnologias antigas quando criança e me apaixonei no mesmo instante. Programo desde os 13 anos e me interessei completamente pelo desenvolvimento backend há alguns anos.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonvgon&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<p align="left">
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/gabriel04rocha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/gabriel04rocha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Lua" 
+    title="Lua"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gabriel04rocha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel04rocha&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-
-<div align="center"> 
-<a href="https://instagram.com/jonv.gon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"a>
-
- </div>
- 
- ### Main skills:
- ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0D1117)&nbsp;
-![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
-![Shopify](https://img.shields.io/badge/shopify-0D1117?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
-![html](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=white&logoColor=1572B6&labelColor=0D1117)
- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jonvgon}/count.svg" /></p> 
-<br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
