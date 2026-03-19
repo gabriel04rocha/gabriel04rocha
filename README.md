@@ -1,3 +1,5 @@
+![banner](https://github.com/gabriel04rocha/gabriel04rocha/blob/main/banner-github.jpg?raw=true)
+
 ## Hi there 👋
 
 <!--
