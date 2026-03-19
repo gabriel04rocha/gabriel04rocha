@@ -1,4 +1,4 @@
-![banner](https://github.com/gabriel04rocha/gabriel04rocha/blob/main/banner-github.jpg?raw=true)
+![banner](https://github.com/gabriel04rocha/gabriel04rocha/blob/main/github-banner.png?raw=true)
 
 ## Hi there 👋
 
