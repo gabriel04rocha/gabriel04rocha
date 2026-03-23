@@ -10,7 +10,7 @@ Olá! Me chamo Gabriel Rocha. Atualmente tenho 22 anos e sou natural de Brasíli
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            title="Total de estrelas do GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/gabriel04rocha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
