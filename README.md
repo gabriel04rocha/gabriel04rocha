@@ -129,7 +129,7 @@ Olá! Me chamo Gabriel Rocha. Atualmente tenho 22 anos e sou natural de Brasíli
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; justify-content: space-between; flex-direction: row;">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -145,4 +145,4 @@ Olá! Me chamo Gabriel Rocha. Atualmente tenho 22 anos e sou natural de Brasíli
       src="https://github-readme-stats-delta-two-99.vercel.app/api/top-langs/?username=gabriel04rocha&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&hide_title=true&bg_color=0d1117" 
   />
 
-</p>
+</div>
