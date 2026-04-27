@@ -135,7 +135,7 @@ Olá! Me chamo Gabriel Rocha. Atualmente tenho 22 anos e sou natural de Brasíli
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-delta-two-99.vercel.app/api?username=gabriel04rocha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&hide_title=true&bg_color=0d1117&hide_stars=true" 
+    src="https://github-readme-stats-delta-two-99.vercel.app/api?username=gabriel04rocha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&hide_title=true&bg_color=0d1117&hide=stars" 
   />
 
 <img 
